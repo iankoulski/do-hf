@@ -1,5 +1,5 @@
 # do-hf
-Run HuggingFace [hf](https://huggingface.co/docs/huggingface_hub/en/guides/cli) in a container using the [do-framework](https://bit.ly/do-framework)
+Run the HuggingFace CLI [hf](https://huggingface.co/docs/huggingface_hub/en/guides/cli) in a container using the [do-framework](https://bit.ly/do-framework)
 
 
 # Container project description
